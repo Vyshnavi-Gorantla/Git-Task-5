@@ -3,3 +3,6 @@ The project demonstrates Git version control and remote repository synchronizati
 
 # Objective
 Learn to create a remote repository, push commits, and collaborate using branches.
+
+## Collaboration
+This section was added on the collaboration branch to demonstrate remote branch synchronization.
